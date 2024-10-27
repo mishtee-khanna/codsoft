@@ -1,5 +1,7 @@
 CodSoft - Internship Project
+
 Python Projects Collection
+
 This repository contains a collection of beginner-friendly Python projects, each developed with unique functionalities and libraries. These projects are great for learning Python programming concepts, GUI design, and basic game logic. The collection includes:
 
 A Calculator built using tkinter for a graphical interface.
@@ -7,25 +9,22 @@ A Password Generator that creates random, secure passwords.
 A Rock-Paper-Scissors Game with simple gameplay logic.
 
 Projects
-1. Calculator
-A simple GUI calculator created using Python's tkinter library, which allows users to perform basic arithmetic operations.
+1. Calculator : A simple GUI calculator created using Python's tkinter library, which allows users to perform basic arithmetic operations.
 
 Features
 Supports addition, subtraction, multiplication, and division.
 User-friendly, responsive button layout.
 Error handling for invalid inputs.
 
-2. Password Generator
-A password generator that creates strong, random passwords based on user-defined length. This script uses the random and string libraries to ensure high entropy and security in the generated passwords.
+2. Password Generator : A password generator that creates strong, random passwords based on user-defined length. This script uses the random and string libraries to ensure high entropy and security in the generated passwords.
 
-Features
+Features :
 Allows users to specify the desired password length.
 Generates passwords with a mix of uppercase, lowercase, digits, and special characters.
 
-3. Rock-Paper-Scissors Game
-A console-based Rock-Paper-Scissors game where the user plays against the computer. The game uses the random library to determine the computer's choice.
+3. Rock-Paper-Scissors Game : A console-based Rock-Paper-Scissors game where the user plays against the computer. The game uses the random library to determine the computer's choice.
 
-Features
+Features :
 Interactive gameplay where users input their choice.
 Simple game logic that determines the winner and displays the result.
 Replay option for multiple rounds.
