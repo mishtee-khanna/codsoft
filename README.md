@@ -18,17 +18,17 @@
   
   2. Password Generator : A password generator that creates strong, random passwords based on user-defined length. This script uses the random and string libraries to ensure high entropy and security in the generated passwords.
   
-  Features :
-    1. Allows users to specify the desired password length.
-    2. Generates passwords with a mix of uppercase, lowercase, digits, and special characters.
-    
+    Features
+      1. Allows users to specify the desired password length.
+      2. Generates passwords with a mix of uppercase, lowercase, digits, and special characters.
+      
   3. Rock-Paper-Scissors Game : A console-based Rock-Paper-Scissors game where the user plays against the computer. The game uses the random library to determine the computer's choice.
   
-  Features :
-    1. Interactive gameplay where users input their choice.
-    2. Simple game logic that determines the winner and displays the result.
-    3. Replay option for multiple rounds.
-    
+    Features :
+      1. Interactive gameplay where users input their choice.
+      2. Simple game logic that determines the winner and displays the result.
+      3. Replay option for multiple rounds.
+      
 ### Getting Started
   To run the game:
   ### Requirements : Each project was built with Python 3, and standard libraries are used:
